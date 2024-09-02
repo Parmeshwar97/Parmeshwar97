@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parmeshwarpatil9763@gmail.com**
 
-- ⚡ Fun fact **I am a very bad story teller. I can make an interesting story very uninterested**
+- ⚡ Fun fact **I am a very bad story teller, I can make an interesting story very uninterested**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
