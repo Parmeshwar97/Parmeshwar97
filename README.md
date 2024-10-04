@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmeshwar97" alt="parmeshwar97" /></a> </p>
 
-- 🌱 I’m currently learning ReactJs**
+- 🌱 I’m currently Building React Projects**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript and ReactJS**
 
 - 📫 How to reach me **parmeshwarpatil9763@gmail.com**
 
