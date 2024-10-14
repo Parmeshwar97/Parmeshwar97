@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmeshwar97" alt="parmeshwar97" /></a> </p>
 
-- 🌱 I’m currently Building React Projects**
+- 🌱 I’m currently Building **Projects in ReactJS**
 
 - 💬 Ask me about **JavaScript and ReactJS**
 
