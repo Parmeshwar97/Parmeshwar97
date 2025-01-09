@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript and ReactJS**
 
-- 📫 How to reach me **parmeshwarpatil9763@gmail.com**
+- 📫 How to reach me **parmeshwarpatil9763@gmail.com*
 
 - ⚡ Fun fact **I am a very bad story teller, I can make an interesting story very uninterested**
 
