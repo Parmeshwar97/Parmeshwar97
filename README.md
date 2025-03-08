@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Building **Projects in ReactJS**
 
-- 💬 Ask me about **JavaScript and ReactJS**
+- 💬 Ask me about **JavaScript and ReactJS*
 
 - 📫 How to reach me **parmeshwarpatil9763@gmail.com*
 
