@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jest - Javascrip testing framework**
 
-- 💬 Ask me about **Fullstack Development***
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **parmeshwarpatil9763@gmail.com**
 
