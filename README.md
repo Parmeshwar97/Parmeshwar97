@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parmeshwar Patil</h1>
+ <h1 align="center">Hi 👋, I'm Parmeshwar Patil</h1>
 <h3 align="center">A Passionate Full Stack Developer from India,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmeshwar97&label=Profile%20views&color=0e75b6&style=flat" alt="parmeshwar97" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Fullstack Development**
 
-- 📫 How to reach me **parmeshwarpatil9763@gmail.com**
+- 📫 How to reach me **parmeshwarpatil9763@gmail.com*
 
 - ⚡ Fun fact **I am a very bad story teller. I can make an interesting story very uninterested**
 
